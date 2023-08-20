@@ -1,7 +1,7 @@
 # Digital Calculator
 
 This is a simple digital calculator web application developed for educational purposes.
-<br>  [Preview](https://mahesh-langote.github.io/Calculator-Using-HTML-CSS-JavaScript-/).
+  [Preview]https://mahesh-langote9.github.io/LGMVIP-Task-3-Calculator/.
   
 ## Introduction
 
